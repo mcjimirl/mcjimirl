@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mcjimirl" alt="mcjimirl" /></a> </p>
 
-- 🌱 I’m currently learning **Mern stack and more Frontend developing skills.**
+-  I’m currently learning **Mern stack and more Frontend developing skills.**
 
-- 📫 How to reach me **markjaemerldiestro@gmail.com**
+-  How to reach me **markjaemerldiestro@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
