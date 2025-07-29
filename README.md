@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Mark Jaemerl Diestro</h1>
 <h3 align="center">A Web Application developer with passion for innovation and growth.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mcjimirl" alt="mcjimirl" /></a> </p>
+<p align="left"> <a href="https://github.com/mcjimirl/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mcjimirl" alt="mcjimirl" /></a> </p>
 
 -  I’m currently learning **Mern stack and more Frontend developing skills.**
 
