@@ -1,9 +1,11 @@
 <h1 align="center">Hi , I'm Mark Jaemerl Diestro</h1>
 <h3 align="center">A Web Application developer with passion for innovation and growth.</h3>
 
--  I’m currently learning **Mern stack and more Frontend developing skills.**
+I’m currently learning: **- Mern stack 
+- Frontend developing skills.**
 
--  How to reach me **markjaemerldiestro@gmail.com**
+How to reach me: **
+- markjaemerldiestro@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
