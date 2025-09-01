@@ -4,6 +4,7 @@
 I’m currently learning: 
 - Mern stack 
 - Frontend developing skills.
+- Backend knowlegdes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
