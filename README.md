@@ -14,16 +14,9 @@
 
 ---
 
-### Contact
+### Contact Me
 - Email: markjaemerldiestro@gmail.com  
 - Portfolio: https://markjaemerldiestro.vercel.app/
-
----
-
-### Connect with Me
-<p align="left">
-  <!-- Add your social links here (LinkedIn, Portfolio, etc.) -->
-</p>
 
 ---
 
